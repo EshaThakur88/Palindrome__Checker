@@ -3,19 +3,19 @@
     margin:0;
 }
 body{
-    background-color: #202020;
+    background-color: #3c4149;
     margin: 60px auto;
     text-align:center;
 }
 h1{
-    font-family: cursive;
+    font-family:'Times New Roman', Times, serif;
     padding-top:100px;
     color:#f6f8fa;
     font-weight:100;
 }
 h3{
     font-weight:lighter;
-    font-family: cursive;
+    font-family:'Times New Roman', Times, serif;
     padding-top:10px;
     color:#f6f8fa;
     font-weight:100;
@@ -26,8 +26,8 @@ h3{
     padding:10px;
     text-indent:5px;
     width:450px;
-    background-color:#202020;
-    margin:10px;
+    background-color:#72a2b1;
+    margin:10px 10px 0;
     text-transform:uppercase;
     color:#f6f8fa;
     font-weight:lighter;
